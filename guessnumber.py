@@ -10,7 +10,7 @@ else:
     print("Enter a number.")
     quit()        
 r = random.randint(0, top)
-# print("Random number generated is: ",r) remove comment for easy navigation
+# print("Random number generated is: ",r) remove comment for easy navigation throughout development
 guesses = 0
 while True:
     guesses+=1
